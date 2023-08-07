@@ -1,0 +1,27 @@
+.tableContianer {
+    overflow-x: auto;
+    overflow-y: auto;
+
+  }
+  
+  .cartTable {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .tableContianer thead th{
+    position: sticky;
+    top: 0;
+    background-color: white;
+  }
+  
+  th,
+  td {
+    text-align: left;
+    padding: 0.75rem;
+  }
+  
+  tr {
+    border-bottom: 1px solid #d3d3d3;
+  }
+  

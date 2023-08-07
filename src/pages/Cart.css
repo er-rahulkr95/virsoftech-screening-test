@@ -1,0 +1,17 @@
+.cart-layout{
+    display: flex;
+    flex-direction: row; 
+    width: 100%; 
+    justify-content: space-around;
+}
+.cart{
+    margin-top: 2rem;
+}
+
+.cartSummaryContainer{
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
